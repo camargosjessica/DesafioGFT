@@ -1,0 +1,13 @@
+C:\Users\camar\source\repos\DesafioGFT\DesafioGFT\bin\Debug\netcoreapp3.1\DesafioGFT.exe
+C:\Users\camar\source\repos\DesafioGFT\DesafioGFT\bin\Debug\netcoreapp3.1\DesafioGFT.deps.json
+C:\Users\camar\source\repos\DesafioGFT\DesafioGFT\bin\Debug\netcoreapp3.1\DesafioGFT.runtimeconfig.json
+C:\Users\camar\source\repos\DesafioGFT\DesafioGFT\bin\Debug\netcoreapp3.1\DesafioGFT.runtimeconfig.dev.json
+C:\Users\camar\source\repos\DesafioGFT\DesafioGFT\bin\Debug\netcoreapp3.1\DesafioGFT.dll
+C:\Users\camar\source\repos\DesafioGFT\DesafioGFT\bin\Debug\netcoreapp3.1\DesafioGFT.pdb
+C:\Users\camar\source\repos\DesafioGFT\DesafioGFT\obj\Debug\netcoreapp3.1\DesafioGFT.csprojAssemblyReference.cache
+C:\Users\camar\source\repos\DesafioGFT\DesafioGFT\obj\Debug\netcoreapp3.1\DesafioGFT.AssemblyInfoInputs.cache
+C:\Users\camar\source\repos\DesafioGFT\DesafioGFT\obj\Debug\netcoreapp3.1\DesafioGFT.AssemblyInfo.cs
+C:\Users\camar\source\repos\DesafioGFT\DesafioGFT\obj\Debug\netcoreapp3.1\DesafioGFT.csproj.CoreCompileInputs.cache
+C:\Users\camar\source\repos\DesafioGFT\DesafioGFT\obj\Debug\netcoreapp3.1\DesafioGFT.dll
+C:\Users\camar\source\repos\DesafioGFT\DesafioGFT\obj\Debug\netcoreapp3.1\DesafioGFT.pdb
+C:\Users\camar\source\repos\DesafioGFT\DesafioGFT\obj\Debug\netcoreapp3.1\DesafioGFT.genruntimeconfig.cache
